@@ -1,0 +1,2 @@
+[INFO] Programa iniciado! Data: Fri Jan 28 02:23:26 2022
+[INFO] Programa finalizado! Data: Fri Jan 28 02:23:33 2022

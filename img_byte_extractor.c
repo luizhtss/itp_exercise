@@ -4,7 +4,7 @@ int main(){
     FILE *BITMAP = fopen("me.bmp", "rb");
 
     if (BITMAP != NULL){
-        char buffer[1];
+        char buffer[2];
         fread(buffer, 1, 1, BITMAP);
 
         for (int i =0; i < 2; i++){
